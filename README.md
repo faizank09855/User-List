@@ -3,6 +3,7 @@
 This application demonstrates user details management with features including location display, image upload, and persistence using Hive/Sqflite. The app is designed with a responsive UI and implements MVC architecture with GetX for state management.
 
 ![Screenshot_1735895631](https://github.com/user-attachments/assets/e1160bb6-1630-468d-bcbb-695f5004cce8)
+![Screenshot_1735895696](https://github.com/user-attachments/assets/c08d2154-ebed-42d8-9fb1-98c97f3b815e)
 
 ## Features
 
